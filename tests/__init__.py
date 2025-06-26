@@ -1,0 +1,3 @@
+"""
+TinyMind Test Suite
+""" 
